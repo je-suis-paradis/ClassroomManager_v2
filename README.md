@@ -1,7 +1,14 @@
 # ClassroomManager
 
-Assignment for the C# 101-Fundamentals I'm completely immersed in. 
+Assignment for the "C# 101-Fundamentals" course I'm completely immersed in
+at the moment. 
 
-It works, but there's this annoying little detail that I can't seem to
+The app runs... however, there's this annoying detail that I can't seem to
 work out. It has to do with the student data not showing up after 
-running lectures. FRUH-STRAH-ZIONE.
+running lectures. FRUH-STRAH-ZIONE. MASS-EE-MALE.
+
+I'll catch ya later, string concatinator.
+
+
+PEACE,
+p-nut
